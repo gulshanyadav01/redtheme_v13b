@@ -19,6 +19,7 @@
 /*Body*/
 .body{
     background-color: #0af50a;
+    color: red;
 }
 
 /*Footer*/
@@ -35,23 +36,23 @@
     color: #cecece;
 }
 .text-muted {
-    color: yellow !important;
+    color: green !important;
 }
 
 /*Page Card*/
 .page-card {
-/*     height: 275px;
+    height: 350px;
     max-width: 500px !important;
     padding: 25px !important;
     background-color: #ffffff !important;
     border: none !important;
-    box-shadow: 0px 3px 11px 0px #E8EAFC, 0 3px 3px -2px #B2B2B21A, 0 1px 8px 0 #9A9A9A1A !important; */
+    box-shadow: 0px 3px 11px 0px #E8EAFC, 0 3px 3px -2px #B2B2B21A, 0 1px 8px 0 #9A9A9A1A !important;
 }
 .page-card .page-card-head {
     border-bottom:none !important;
 }
 .card {
-    background-color: blue;
+    background-color: pink;
 	box-shadow: 0px 3px 12px 0px #e8eafcad, 0 3px 3px -2px #461a7714;
 }
 
